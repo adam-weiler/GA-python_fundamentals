@@ -1,9 +1,5 @@
-Tues July 2nd
+#Exercise 1
 
-Professor: Fred
-
-
-
-
-
-OS and Git Fundamentals
+print(2) 
+print(3)
+print(2 + 3)
