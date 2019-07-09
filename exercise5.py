@@ -15,3 +15,18 @@ while counter < 4:
 
 
 # Exercise 1:
+counter = 0
+distance = 0
+
+while counter < 4:
+    counter += 1
+
+    print("Would you like to walk or run?")
+    speed = input().lower()
+
+    if (speed == "walk"):
+        distance += 1
+    elif (speed == "run"):
+        distance += 5
+        
+    print("Distance from home is {}km.".format(distance))
