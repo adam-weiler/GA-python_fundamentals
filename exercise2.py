@@ -1,7 +1,7 @@
 #Exercise 2
 
 #Question 1: What is a good tip for $55?
-print(55 * .15)
+print((55 * .15) + 55)
 #The output is 8.25
 
 #Question 2: 
