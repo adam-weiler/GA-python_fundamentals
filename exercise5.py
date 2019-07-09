@@ -30,3 +30,4 @@ while counter < 4:
         distance += 5
         
     print("Distance from home is {}km.".format(distance))
+#Outputs 'Would you like to walk or run?' and 'Distance from home is {distance}km' four times.
